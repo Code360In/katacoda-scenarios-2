@@ -1,0 +1,34 @@
+{
+  "title": "deepface を体験しよう",
+  "description": "顔認証のための軽量フレームワーク DeepFace の WebAPI をコンテナを使って体験します。",
+  "difficulty": "Beginner",
+  "time": "50 mins",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
