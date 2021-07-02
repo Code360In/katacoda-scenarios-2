@@ -5,6 +5,13 @@
 `docker version`{{execute}}
 
 
-`docker pull` コマンドを実行して、イメージをダウンロードしましょう。
+次に、`docker pull` コマンドを実行して、イメージをダウンロードしましょう。
 
 `docker pull eternity1984/deepface-cpu`{{execute}}
+
+
+```
+...
+Status: Downloaded newer image for eternity1984/deepface-cpu:latest
+docker.io/eternity1984/deepface-cpu:latest
+```
