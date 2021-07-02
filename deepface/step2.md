@@ -1,10 +1,10 @@
-`docker run` コマンドを実行して、イメージが正しく起動できるか確認します。
+- `docker run` コマンドを実行して、イメージが正しく起動できるか確認します。
 
 `docker run -it eternity1984/deepface-cpu`{{execute}}
 
+
+
 ```
-Directory  /home/deepface /.deepface created
-Directory  /home/deepface /.deepface/weights created
  * Serving Flask app 'api' (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.

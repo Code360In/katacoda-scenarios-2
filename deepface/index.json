@@ -2,7 +2,7 @@
   "title": "deepface を体験しよう",
   "description": "顔認証のための軽量フレームワーク DeepFace の WebAPI をコンテナを使って体験します。",
   "difficulty": "Beginner",
-  "time": "50 mins",
+  "time": "20 mins",
   "details": {
     "assets": {
       "host01": [
