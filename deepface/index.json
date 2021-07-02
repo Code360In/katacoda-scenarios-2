@@ -4,6 +4,16 @@
   "difficulty": "Beginner",
   "time": "50 mins",
   "details": {
+    "assets": {
+      "host01": [
+          {"file": "setup.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+      ]
+    },
+    "intro": {
+      "courseData": "background.sh",
+      "code": "foreground.sh",
+      "text": "intro.md"
+    },
     "steps": [
       {
         "title": "Step 1 - Pull image",
@@ -22,9 +32,6 @@
         "text": "step3.md"
       }
     ],
-    "intro": {
-      "text": "intro.md"
-    },
     "finish": {
       "text": "finish.md"
     }

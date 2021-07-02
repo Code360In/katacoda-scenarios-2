@@ -2,7 +2,7 @@
 
 `docker run -it eternity1984/deepface-cpu`{{execute}}
 
-<pre>
+```
 Directory  /home/deepface /.deepface created
 Directory  /home/deepface /.deepface/weights created
  * Serving Flask app 'api' (lazy loading)
@@ -13,6 +13,6 @@ Directory  /home/deepface /.deepface/weights created
  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
- </pre>
+```
 
  起動が確認できたら、次に進みます。
